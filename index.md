@@ -19,9 +19,11 @@ layout: default
 - [English](./terms-en.html)
 - [日本語](./terms-ja.html)
 
-## 고객 지원 / Support
+## 고객 지원 / Support / サポート
 
-- [고객 지원](./support.html)
+- [한국어](./support.html)
+- [English](./support-en.html)
+- [日本語](./support-ja.html)
 
 ## 문의 / Contact
 
