@@ -29,7 +29,7 @@ The Service provides the following features.
 
 ## Article 3 (Accounts and Authentication)
 
-1. The Service supports social login via Google, Kakao, and Apple accounts.
+1. The Service supports social login via Google, Kakao, Apple, NAVER, and LINE accounts.
 2. Users may sign up with a single social account.
 3. Users are responsible for managing their account information.
 
