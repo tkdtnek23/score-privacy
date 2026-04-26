@@ -56,6 +56,7 @@ Score(이하 "서비스")는 이용자의 개인정보를 중요하게 생각하
 | Kakao Corp. | Kakao 계정 로그인 | 대한민국 |
 | Apple Inc. | Apple 계정 로그인 | 미국 |
 | NAVER Corp. | NAVER 계정 로그인 | 대한민국 |
+| LINE Corporation | LINE 계정 로그인 | 일본 |
 
 ## 6. 이용자의 권리와 행사 방법
 
