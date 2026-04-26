@@ -54,6 +54,7 @@ Score（以下「本サービス」）は、利用者の個人情報を重視し
 | Kakao Corp. | Kakaoアカウントログイン | 韓国 |
 | Apple Inc. | Appleアカウントログイン | 米国 |
 | NAVER Corp. | NAVERアカウントログイン | 韓国 |
+| LINE Corporation | LINEアカウントログイン | 日本 |
 
 ## 6. 利用者の権利と行使方法
 
