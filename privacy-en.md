@@ -54,6 +54,7 @@ We entrust the following providers with personal information processing for serv
 | Kakao Corp. | Kakao account login | South Korea |
 | Apple Inc. | Apple account login | USA |
 | NAVER Corp. | NAVER account login | South Korea |
+| LINE Corporation | LINE account login | Japan |
 
 ## 6. User Rights
 
